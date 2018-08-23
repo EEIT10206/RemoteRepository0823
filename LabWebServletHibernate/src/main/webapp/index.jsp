@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h3>Welcome20180823 ${user.email}</h3>
+<h3>TestWelcome20180823 ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Product</a></h3>
 
